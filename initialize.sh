@@ -2,7 +2,7 @@
 
 git clone git@github.com:levihackerman-102/MVC-assignment.git
 
-# import db using phpmyadmin and the schema.sql file provided
+# import db using PHPMyAdmin and the schema.sql file provided
 
 composer install
 curl -s https://getcomposer.org/installer | php
