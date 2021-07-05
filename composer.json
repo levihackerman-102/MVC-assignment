@@ -1,0 +1,11 @@
+{
+    "name": "levihackerman/mvc-assignment",
+    "description": "Library Management Web app using MVC architecture",
+    "require": {
+        "torophp/torophp": "dev-master",
+        "twig/twig": "^3.0"
+    },
+    "autoload": {
+        "classmap": ["app"]
+    }
+}
